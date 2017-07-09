@@ -8,5 +8,5 @@ Below is their description. Though they do cover an algorithm, but these practic
 5. polyggp_4.rtf - Polynomial addition
 6. radix.rtf - Radix sort algorithm
 7. recursiongg.rtf - Tower of Hanoi based on recursion
-8. Tree.rtf - Tree traversla using array/linked list
+8. Tree.rtf - Tree traversal using array/linked list
 9. SPARSEGG.C - Sparse matrix checking and Transpose evaluation
